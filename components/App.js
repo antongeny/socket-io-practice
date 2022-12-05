@@ -3,7 +3,6 @@
 
 // const socket = io();
 //
-//
 // function App() {
 //   const [isConnected, setIsConnected] = useState(socket.connected);
 //   const [lastPong, setLastPong] = useState(null);
